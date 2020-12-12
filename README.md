@@ -176,3 +176,5 @@ ports:
 Older compose files using the short-version of port mapping may encounter Kafka client issues if their connection to individual brokers cannot be guaranteed.
 
 See the included sample compose file ```docker-compose-swarm.yml```
+
+All content is referenced from wurstmeister repo.
