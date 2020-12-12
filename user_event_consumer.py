@@ -17,4 +17,5 @@ def consume_events():
         print(m.value)
 
 if __name__ == '__main__':
+    
     consume_events()
